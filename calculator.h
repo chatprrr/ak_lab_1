@@ -9,3 +9,8 @@ class Calculator
 };
 
 #endif//CALCULATOR_H
+//test
+//test
+//test
+//test
+//test
